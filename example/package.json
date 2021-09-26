@@ -1,0 +1,14 @@
+{
+  "name": "verdaccio-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "installation": "npm i --S --registry http://localhost:4873 verdaccio-library && npm i"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "verdaccio-library": "^1.0.0"
+  }
+}

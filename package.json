@@ -1,0 +1,13 @@
+{
+  "name": "verdaccio-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "addUser": "npm adduser --registry http://localhost:4873",
+    "publish": "npm publish --registry http://localhost:4873"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
