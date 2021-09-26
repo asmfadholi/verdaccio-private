@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "package-fadholi": "0.0.3",
     "verdaccio-library": "^1.0.0"
   }
 }
